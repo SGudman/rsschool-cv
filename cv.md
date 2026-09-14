@@ -10,9 +10,9 @@
 
 ## Summary
 
-Operations professional with more than 11 years of experience founding and managing businesses in transport and logistics. After relocating to Poland in 2023, I transitioned into a remote role at Teleperformance and built a track record in a new market while maintaining high performance standards.
+Operations professional with more than 11 years of experience founding and managing businesses in transport and logistics. After relocating to Poland in 2023, I transitioned into a remote role at Teleperformance, where I continue to work as a consecutive interpreter while building a track record in a new market.
 
-I am moving into frontend development and actively developing my skills in HTML, CSS, JavaScript, Git and GitHub. I learn quickly, work independently and enjoy turning complex information into clear, usable solutions.
+I am preparing to transition into frontend development and actively developing my skills in HTML, CSS, JavaScript, Git and GitHub. I learn quickly, work independently and enjoy turning complex information into clear, usable solutions.
 
 ## Skills
 
@@ -53,7 +53,7 @@ function multiply(a, b) {
 
 ### Remote Consecutive Interpreter — Teleperformance
 
-*March 2024 – February 2026 · Remote · English–Russian*
+*March 2024 – Present · Remote · English–Russian*
 
 - Delivered precise communication in a fully remote, self-managed environment.
 - Handled up to 1,000 client interactions per month, mainly in time-sensitive medical contexts.
@@ -79,6 +79,7 @@ function multiply(a, b) {
 
 ## Education
 
+- [RS School](https://rs.school/) — Full-Stack JavaScript, Stage 1, 2026–Present.
 - [BSU Institute of Business](https://www.sbmt.bsu.by/) — Financial Management, 2016–2017.
 - [International University “MITSO”](http://abiturient.mitso.by/) — Logistics, 2009–2014.
 - [Minsk College of Business](http://www.mcb.by/) — Accounting, Analysis and Control, 2006–2009.
